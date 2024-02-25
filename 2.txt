@@ -1,4 +1,4 @@
-     UID     PID    PPID  TTY        STIME COMMAND
+      UID     PID    PPID  TTY        STIME COMMAND
    catwh    1816       1 ?        22:06:45 /usr/bin/mintty
    catwh    1955    1817 pty0     22:49:36 /usr/bin/ps
    catwh    1817    1816 pty0     22:06:45 /usr/bin/bash
